@@ -4,6 +4,7 @@
 
 Here i used Kaggel's dataset to evaluate the precision accuracy of logistic regression, CatBoost and XGBoost classification strategies on detecting fraudulent transactions.
 
-I have conducted 10 kfold rounds for each classification method and recorded it's associated precision accuracy. Then i used the recorded precision accuracies to compare mean and variance accross the three methods. We can vizualize the results in the following boxplot:
+Three questions where addressed: which classificator performs better? how precision accuracy and accuracy differ across the results? which features best predict frauds using the best-performing classficator as model?
 
-![boxplot](https://user-images.githubusercontent.com/8518620/161558749-7ab1b9af-ee7f-4c56-a1b1-5822c120d30c.png)
+I have conducted 10 kfold rounds for each classification method and recorded it's associated precision accuracy and plain accuracy. Then i used the recorded precision and plain accuracies to compare mean and variance accross the three methods. Also, coeficients for the best performing model was calculated in order to discover which feature predicts frauds best.
+

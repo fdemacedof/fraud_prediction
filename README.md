@@ -2,6 +2,8 @@
 
 **Important**: Kaggles dataset can be downloaded in https://www.kaggle.com/datasets/chitwanmanchanda/fraudulent-transactions-data. It is a big dataset and i was thus unable to upload it.
 
+You can check the article I wrote in medium about this analysis here: https://medium.com/@fdemacedof/detecting-fraudulent-transactions-with-classification-algorithms-868934378cfe
+
 Here i used Kaggel's dataset to evaluate the precision accuracy of logistic regression, CatBoost and XGBoost classification strategies on detecting fraudulent transactions.
 
 Three questions where addressed: which classificator performs better? how precision accuracy and accuracy differ across the results? what is the false positive/false negative error rates for the best performing classificator?

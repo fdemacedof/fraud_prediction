@@ -1,6 +1,6 @@
 ## Comparing classification algorithms using Kaggel's Fraudulent Transactions dataset 
 
-**Important**: Kaggles dataset can be downloaded in https://www.kaggle.com/datasets/chitwanmanchanda/fraudulent-transactions-data.
+**Important**: Kaggles dataset can be downloaded in https://www.kaggle.com/datasets/chitwanmanchanda/fraudulent-transactions-data. It is a big dataset and i was thus unable to upload it.
 
 Here i used Kaggel's dataset to evaluate the precision accuracy of logistic regression, CatBoost and XGBoost classification strategies on detecting fraudulent transactions.
 

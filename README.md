@@ -49,5 +49,5 @@ The XGBoost classifier (chosen as the best for the present problem) showed a clo
 ### Evaluation
 
 Finally, XGBoost was the best performing algorithm when using precision accuracy as metric. 
-We found that common accuracy is hugely biased when dealing eith imbalanced samples.
+We found that common accuracy is hugely biased when dealing with imbalanced samples.
 False-negative rate of XGBoost was 24%; for real world purpuses, this means that the algorithm would fail to classify potential frauds 24 out of 100 times.

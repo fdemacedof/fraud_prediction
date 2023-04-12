@@ -27,7 +27,7 @@ I have chosen to drop “step” (step of the simulation, the time of each trans
 ### Modeling
 
 I have conducted 10 kfold rounds for each classification method and recorded it's associated precision accuracy and plain accuracy. Then i used the recorded precision and plain accuracies to compare mean and variance accross the three methods.
-After deciding which was the best algorithm, i calculate the false positive and false negative rates for that classifier.##
+After deciding which was the best algorithm, I calculate the false positive and false negative rates for that classifier.
 ### Question 1: which classificator performs better?
 
 The recorded precision accuracy values, recorded for each classifier, are shown in the above boxplot: 
